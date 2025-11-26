@@ -22,7 +22,7 @@ React
 
 JavaScript / JSX
 
-CSS / SCSS
+CSS
 
 ▶️ Running the Project Locally
 1. Clone the repository
